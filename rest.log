@@ -1,0 +1,39 @@
+2022-03-15 01:21:32.713  INFO 16932 --- [main] c.e.p.ProductRestfulAntraApplication     : Starting ProductRestfulAntraApplication using Java 17 on Guo-NandeMacBook-Pro.local with PID 16932 (/Users/guonan/Documents/STS-workplace/product_restful_antra/target/classes started by guonan in /Users/guonan/Documents/STS-workplace/product_restful_antra)
+2022-03-15 01:21:32.721  INFO 16932 --- [main] c.e.p.ProductRestfulAntraApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-03-15 01:21:33.919  INFO 16932 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8889 (http)
+2022-03-15 01:21:33.939  INFO 16932 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-15 01:21:33.939  INFO 16932 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-15 01:21:34.089  INFO 16932 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-15 01:21:34.089  INFO 16932 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1314 ms
+2022-03-15 01:21:34.575  INFO 16932 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8889 (http) with context path ''
+2022-03-15 01:21:34.582  INFO 16932 --- [main] c.e.p.ProductRestfulAntraApplication     : Started ProductRestfulAntraApplication in 2.211 seconds (JVM running for 3.282)
+2022-03-15 01:21:43.215  INFO 16932 --- [http-nio-8889-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-15 01:21:43.215  INFO 16932 --- [http-nio-8889-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-15 01:21:43.216  INFO 16932 --- [http-nio-8889-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-03-15 01:22:29.415  INFO 16961 --- [main] c.e.p.ProductRestfulAntraApplication     : Starting ProductRestfulAntraApplication using Java 17 on Guo-NandeMacBook-Pro.local with PID 16961 (/Users/guonan/Documents/STS-workplace/product_restful_antra/target/classes started by guonan in /Users/guonan/Documents/STS-workplace/product_restful_antra)
+2022-03-15 01:22:29.418  INFO 16961 --- [main] c.e.p.ProductRestfulAntraApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-03-15 01:22:30.463  INFO 16961 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9988 (http)
+2022-03-15 01:22:30.474  INFO 16961 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-15 01:22:30.475  INFO 16961 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-15 01:22:30.549  INFO 16961 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-15 01:22:30.550  INFO 16961 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1072 ms
+2022-03-15 01:22:30.916  INFO 16961 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9988 (http) with context path ''
+2022-03-15 01:22:30.925  INFO 16961 --- [main] c.e.p.ProductRestfulAntraApplication     : Started ProductRestfulAntraApplication in 1.946 seconds (JVM running for 2.812)
+2022-03-15 01:22:37.531  INFO 16961 --- [http-nio-9988-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-15 01:22:37.532  INFO 16961 --- [http-nio-9988-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-15 01:22:37.533  INFO 16961 --- [http-nio-9988-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-03-15 01:25:15.991  INFO 16961 --- [RMI TCP Connection(6)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-03-15 01:27:16.473  INFO 17126 --- [main] c.e.p.ProductRestfulAntraApplication     : Starting ProductRestfulAntraApplication using Java 17 on Guo-NandeMacBook-Pro.local with PID 17126 (/Users/guonan/Documents/STS-workplace/product_restful_antra/target/classes started by guonan in /Users/guonan/Documents/STS-workplace/product_restful_antra)
+2022-03-15 01:27:16.476  INFO 17126 --- [main] c.e.p.ProductRestfulAntraApplication     : No active profile set, falling back to 1 default profile: "default"
+2022-03-15 01:27:17.734  INFO 17126 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9988 (http)
+2022-03-15 01:27:17.746  INFO 17126 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-15 01:27:17.746  INFO 17126 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-15 01:27:17.813  INFO 17126 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-15 01:27:17.813  INFO 17126 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1283 ms
+2022-03-15 01:27:18.343  INFO 17126 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9988 (http) with context path ''
+2022-03-15 01:27:18.351  INFO 17126 --- [main] c.e.p.ProductRestfulAntraApplication     : Started ProductRestfulAntraApplication in 2.256 seconds (JVM running for 4.368)
+2022-03-15 01:27:23.316  INFO 17126 --- [http-nio-9988-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-15 01:27:23.317  INFO 17126 --- [http-nio-9988-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-15 01:27:23.318  INFO 17126 --- [http-nio-9988-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-03-15 01:27:23.409  INFO 17126 --- [http-nio-9988-exec-1] c.e.p.controllers.ProductController      : Getting 6 products
+2022-03-15 01:27:34.394  INFO 17126 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
